@@ -2,7 +2,8 @@
 
 # Primeiro projeto com react native e adicionado para portifólio da aula Introdução ao React Native da DIO RN.
 
-![Screenshot_20220618-143621_Expo Go](https://user-images.githubusercontent.com/80645214/174451509-718cba23-0c27-4a04-9ee8-df30e81aaa44.jpg)
+![image](https://user-images.githubusercontent.com/80645214/174451786-f986180f-42b1-4634-82d5-385b1f921510.png)
+
 
 # Conteúdo
 
